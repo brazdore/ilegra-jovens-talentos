@@ -39,7 +39,7 @@ Use a classe main para instanciar e iniciar as Threads
 
 ### Testes
 
-#### Tema 5: Lampada
+#### Tema 5: Lâmpada
 
 ```
 Criar um projeto java com gradle
